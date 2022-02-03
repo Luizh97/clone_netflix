@@ -1,0 +1,1 @@
+Clone do Netflix usando elementos básicos do HTML5 e CSS, além do uso de containers e tags semânticas como: header.  Também foi usado elementos de responsividade no CSS. E por fim foi usado carousel com o Jquery e JavaScript.
